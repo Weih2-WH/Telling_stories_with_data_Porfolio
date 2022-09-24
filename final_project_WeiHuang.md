@@ -6,29 +6,36 @@
 
 #### Total death in world for 10 years
 > Death is a lesson we all must learn. Some people death because of peace, ill, or accident. Let us take a look at the death trend during these ten years.
+
 ![world trend](/Final project photo/world trend.jpg)
 
 #### Reason of Death in 10 years
 > Besides Cardiovascular diseases, cancer is the second common reason of death.
-> ![death reason](/Final project photo/death reason.jpg)
+
+
+![death reason](/Final project photo/death reason.jpg)
 
 #### Cancer's incidence and the mortality rate in top 3 countries
 > Focus on the 2020, we can see the incidence rate and the mortality rate in top 3 countries.
-> ![Incidence and Mortality](/Final project photo/Incidence and Mortality.jpg)
+
+![Incidence and Mortality](/Final project photo/Incidence and Mortality.jpg)
 
 #### Reasons for the death in USA
 > Focus on USA, we can see that cancer is the second high cause of the death.
-> ![death reason](/Final project photo/death reason.jpg)
+
+![death reason](/Final project photo/death reason.jpg)
 
 #### Death rate for different kinds of cancer in USA
 > What kinds of cancer the American should focus on?
-> ![kinds of cancer](/Final project photo/kinds of cancer.jpg)
+
+![kinds of cancer](/Final project photo/kinds of cancer.jpg)
 
 #### Top 5 cancer in different sex and the attributable to risk factors
 > What kinds of cancer that each gender should concern most?
-> ![fackor](/Final project photo/fackor.jpg)
+
+![fackor](/Final project photo/fackor.jpg)
 
 #### Reference
 > https://ourworldindata.org/causes-of-death
-> 
+
 > https://www.wcrf.org/cancer-trends/global-cancer-data-by-country/
