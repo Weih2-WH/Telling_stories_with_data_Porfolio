@@ -35,7 +35,7 @@
 
 ![fackor](/Final project photo/fackor.jpg)
 
-#### Reference
+#### Data Reference
 > [Our world in data](https://ourworldindata.org/causes-of-death "Title") 
 
 > [World cancer research fund internaltional](https://www.wcrf.org/cancer-trends/global-cancer-data-by-country/ "Title") 
