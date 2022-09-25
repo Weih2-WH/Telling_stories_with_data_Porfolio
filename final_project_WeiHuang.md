@@ -36,6 +36,6 @@
 ![fackor](/Final project photo/fackor.jpg)
 
 #### Reference
-> https://ourworldindata.org/causes-of-death
+> [This link]https://ourworldindata.org/causes-of-death
 
-> https://www.wcrf.org/cancer-trends/global-cancer-data-by-country/
+> [This link]https://www.wcrf.org/cancer-trends/global-cancer-data-by-country/
