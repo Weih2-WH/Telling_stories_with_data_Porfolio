@@ -49,8 +49,8 @@
 
 #### Research protocol
 > 1. The target audience you hope to reach with your story
-> Adults in age between 25 to 60. Let them be aware that cancer is not only about the genatic, but also about the environment.
+> - Adults in age between 25 to 60. Let them be aware that cancer is not only about the genatic, but also about the environment.
 > 2. Your approach to identifying representative individuals to interview
-> People who are in the age range and have some experience in making a public presentation.
+> - People who are in the age range and have some experience in making a public presentation.
 > 3. Interview script
 > - 
