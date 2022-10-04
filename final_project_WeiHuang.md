@@ -41,4 +41,16 @@
 > [World cancer research fund internaltional](https://www.wcrf.org/cancer-trends/global-cancer-data-by-country/ "Title") 
 
 ## Part2
-<div class='tableauPlaceholder' id='viz1664731854045' style='position: relative'><noscript><a href='#'><img alt='Cancer occupies the world&#39;s second highest reason for death during these two decades ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;Worldyeardeathbyreason&#47;Bycase&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Worldyeardeathbyreason&#47;Bycase' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;Worldyeardeathbyreason&#47;Bycase&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-TW' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1664731854045');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+#### Collecting Data
+> The data for cancer is easy to collect because it has been researched for so many years. However, different datasets have their schema. Some focus on the duration of the years some just focus on a year. Before using the datasets to prove my store, first I need to clean the data and pick out what kinds of data I would like to use in my store.
+
+#### Visualization
+> At first, I used Tableau as the tool to make the visualization. However, I found out Tableau has lots of functions and can customerlize too much, which took me so much time to create a visualization. But Flourish provides the defual setting for each type of visualization. With Flourish, I only need to adjust a little for each visualization, which saves me a lot of time. Moreover, the graph created by Fourish can easily merge with Handshake. 
+
+#### Research protocol
+###### The target audience you hope to reach with your story
+Adults in age between 25 to 60. Let them be aware that cancer is not only about the genatic, but also about the environment.
+###### Your approach to identifying representative individuals to interview
+People who are in the age range and have some experience in making a public presentation.
+###### Interview script
+- 
