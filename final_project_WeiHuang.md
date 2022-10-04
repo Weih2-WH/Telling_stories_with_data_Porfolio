@@ -45,7 +45,7 @@
 > The data for cancer is easy to collect because it has been researched for so many years. However, different datasets have their schema. Some focus on the duration of the years some just focus on a year. Before using the datasets to prove my store, first I need to clean the data and pick out what kinds of data I would like to use in my store.
 
 #### Visualization
-> At first, I used Tableau as the tool to make the visualization. However, I found out Tableau has lots of functions and can customerlize too much, which took me so much time to create a visualization. But Flourish provides the defual setting for each type of visualization. With Flourish, I only need to adjust a little for each visualization, which saves me a lot of time. Moreover, the graph created by Fourish can easily merge with Handshake. 
+> At first, I used Tableau as the tool to make the visualization. However, I found out Tableau has lots of functions and can customerlize too much, which took me so much time to create a visualization. But Flourish provides the defual setting for each type of visualization. With Flourish, I only need to adjust a little for each visualization, which saves me a lot of time. Moreover, the graph created by Fourish can easily merge with Shorthand. 
 
 #### Research protocol
 > 1. The target audience you hope to reach with your story
