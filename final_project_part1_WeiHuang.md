@@ -39,22 +39,3 @@
 > [Our world in data](https://ourworldindata.org/causes-of-death "Title") 
 
 > [World cancer research fund internaltional](https://www.wcrf.org/cancer-trends/global-cancer-data-by-country/ "Title") 
-
-## Part2
-#### Collecting Data
-> The data for cancer is easy to collect because it has been researched for so many years. However, different datasets have their schema. Some focus on the duration of the years some just focus on a year. Before using the datasets to prove my store, first I need to clean the data and pick out what kinds of data I would like to use in my store.
-
-#### Visualization
-> At first, I used Tableau as the tool to make the visualization. However, I found out Tableau has lots of functions and can customerlize too much, which took me so much time to create a visualization. But Flourish provides the defual setting for each type of visualization. With Flourish, I only need to adjust a little for each visualization, which saves me a lot of time. Moreover, the graph created by Fourish can easily merge with Shorthand. 
-
-#### Research protocol
-> 1. The target audience you hope to reach with your story
-> - Adults in age between 25 to 60. Let them be aware that cancer is not only about the genatic, but also about the environment.
-> 2. Your approach to identifying representative individuals to interview
-> - People who are in the age range and have some experience in making a public presentation.
-> 3. Interview script
-> - 
-
-
-#### Temp store
-> [Cancer & Environment](https://preview.shorthand.com/6xCckArtPDvIKk7k  "Title") 
