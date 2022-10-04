@@ -48,9 +48,9 @@
 > At first, I used Tableau as the tool to make the visualization. However, I found out Tableau has lots of functions and can customerlize too much, which took me so much time to create a visualization. But Flourish provides the defual setting for each type of visualization. With Flourish, I only need to adjust a little for each visualization, which saves me a lot of time. Moreover, the graph created by Fourish can easily merge with Handshake. 
 
 #### Research protocol
-> ###### The target audience you hope to reach with your story
+> 1. The target audience you hope to reach with your story
 > Adults in age between 25 to 60. Let them be aware that cancer is not only about the genatic, but also about the environment.
-> ###### Your approach to identifying representative individuals to interview
+> 2. Your approach to identifying representative individuals to interview
 > People who are in the age range and have some experience in making a public presentation.
-> ###### Interview script
+> 3. Interview script
 > - 
