@@ -45,5 +45,5 @@
 >> - In tree chart, combine small items to Others and use the color to rank the category.
 >> - Remove the text in the background and move the description to the text field.
 
-#### Temp store
+#### Temp story
 > [Cancer & Environment](https://preview.shorthand.com/6xCckArtPDvIKk7k  "Title") 
