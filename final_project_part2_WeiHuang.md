@@ -33,6 +33,17 @@
 >> 2. The photo also should come up with some words to elaborate on the situation.
 >> 3. All the other data are based on the "world" field, only a chart based on country, making it not consistency.
 >> 4. Some font sizes are too small.
+> - Critique 3:
+>> Overall, the page is good. I cannot find anything needed to be modified as the first glance. But I think it would be better if the following items can be improved will be great.
+>> 1. The color tone should be the same, or it seems like made by different people.
+>> 2. The photo should use the text to elaborate.
+> 5. Plan on change
+>> - Modify the color to same tone.
+>> - Add more elaborate on each graph and photo.
+>> - Change the line graph to animated one.
+>> - Add the title.
+>> - In tree chart, combine small items to Others and use the color to rank the category.
+>> - Remove the text in the background and move the description to the text field.
 
 #### Temp store
 > [Cancer & Environment](https://preview.shorthand.com/6xCckArtPDvIKk7k  "Title") 
