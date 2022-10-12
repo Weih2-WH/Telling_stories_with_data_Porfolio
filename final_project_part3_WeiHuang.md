@@ -47,6 +47,11 @@ Let us introduce more detail from the top of the body.
 > I would let all people no matter he or she no matter younger or elder be the audience for this topic. Because everyone should take care of their health >  > not only a specific group of people. To reach all groups of audiences, I try to highlight the key point on each page and allow readers can get the point > at the first glance. Moreover, I use some interesting animation pages to attract audiences not only using the static page. Additionally, I do not provide > deep information on the web, the purpose of the web is to arouse people's awareness, with simple information.
 
 #### What I learned learned
-
+> During the project and the class, I learned I learned a lot:
+> 1. How to use colors to attract readers, and highlight key points.
+> 2. What are the differences between each chart and what kinds of situations will be better to use which chart?
+> 3. Based on the audience how can we schedule our store and design the visualization?
+> 4. Simplize the key point for a single visualization.
+> During the course what most impressed me is the usage of the color, gray. With gray, the key point in a visualization will be highlighted when others are > gray the author does not need to use any fance skill to design the graph.
 
 
